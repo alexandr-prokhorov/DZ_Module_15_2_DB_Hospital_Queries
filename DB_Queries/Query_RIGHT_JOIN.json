@@ -1,0 +1,62 @@
+[
+    {
+        "Surname": "Петров",
+        "Name": "Петр",
+        "StartTime": "09:00",
+        "EndTime": "10:00"
+    },
+    {
+        "Surname": "Петров",
+        "Name": "Петр",
+        "StartTime": "11:00",
+        "EndTime": "12:00"
+    },
+    {
+        "Surname": "Иванов",
+        "Name": "Иван",
+        "StartTime": "09:00",
+        "EndTime": "10:00"
+    },
+    {
+        "Surname": "Алексеев",
+        "Name": "Алексей",
+        "StartTime": "12:00",
+        "EndTime": "14:00"
+    },
+    {
+        "Surname": "Васильев",
+        "Name": "Василий",
+        "StartTime": "14:00",
+        "EndTime": "15:00"
+    },
+    {
+        "Surname": "Марьина",
+        "Name": "Марина",
+        "StartTime": "17:00",
+        "EndTime": "17:30"
+    },
+    {
+        "Surname": "Васина",
+        "Name": "Василиса",
+        "StartTime": "17:00",
+        "EndTime": "17:30"
+    },
+    {
+        "Surname": "Владимиров",
+        "Name": "Владимир",
+        "StartTime": "09:00",
+        "EndTime": "10:00"
+    },
+    {
+        "Surname": "Александров ",
+        "Name": "Александр",
+        "StartTime": "08:30",
+        "EndTime": "09:00"
+    },
+    {
+        "Surname": "Сергеев",
+        "Name": "Сергей",
+        "StartTime": "09:00",
+        "EndTime": "10:30"
+    }
+]

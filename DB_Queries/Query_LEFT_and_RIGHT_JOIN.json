@@ -1,0 +1,52 @@
+[
+    {
+        "NameSponsor": "Алекс",
+        "Amount": 1000.0,
+        "Date": "2024-03-09"
+    },
+    {
+        "NameSponsor": "Вики",
+        "Amount": 2000.0,
+        "Date": "2025-02-11"
+    },
+    {
+        "NameSponsor": "Владлен",
+        "Amount": 10000.0,
+        "Date": "2025-03-10"
+    },
+    {
+        "NameSponsor": "Джек",
+        "Amount": null,
+        "Date": null
+    },
+    {
+        "NameSponsor": "Джон",
+        "Amount": null,
+        "Date": null
+    },
+    {
+        "NameSponsor": "Катрин",
+        "Amount": 4000.0,
+        "Date": "2025-01-20"
+    },
+    {
+        "NameSponsor": "Катрин",
+        "Amount": 10000.0,
+        "Date": "2025-01-01"
+    },
+    {
+        "NameSponsor": "Кирилл",
+        "Amount": 3000.0,
+        "Date": "2025-01-10"
+    },
+    {
+        "NameSponsor": "Мари",
+        "Amount": 5000.0,
+        "Date": "2024-01-22"
+    },
+    {
+        "NameSponsor": "Соня",
+        "Amount": 2050.0,
+        "Date": "2025-01-01"
+    }
+]
